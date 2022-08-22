@@ -1,9 +1,9 @@
 import React from 'react'
 import './App.css'
-import Banner from './components/banner/banner'
+import Banner from './Components/Banner/banner'
 import {action,adventure} from './url'
-import Navbar from "./components/Navbar/Navbar"
-import RowPoster from './components/RowPoster/RowPoster'
+import Navbar from "./Components/Navbar/Navbar"
+import RowPoster from './Components/RowPost/RowPoster'
 function App() {
   return (
     <div className="App">
